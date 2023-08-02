@@ -1,4 +1,4 @@
-This is an example rails app on how to configure and use the [Resend SMPT Support](https://resend.com/docs/send-with-rails) with Rails Action Mailer
+This is an example rails app on how to configure and use the [Resend SMTP Support](https://resend.com/docs/send-with-rails) with Rails Action Mailer
 
 # Setup
 
