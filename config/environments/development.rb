@@ -60,6 +60,7 @@ Rails.application.configure do
     :port      => 465,
     :user_name => 'resend',
     :password  => ENV['RESEND_API_KEY'],
+    :return_response => true,
     :tls => true
   }
   # Raises error for missing translations.
